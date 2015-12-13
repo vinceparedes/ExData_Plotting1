@@ -4,8 +4,9 @@
 library(downloader)
 
 ## Change this to fit your directory
-setwd("/Users/vinceparedes/gitStuff/datasciencecoursera/ExData_Plotting1")
+setwd("/Users/vinceparedes/gitStuff/datasciencecoursera/ExData_Plotting1/ExData_Plotting1/")
 
+##Use the two lines below only once 
 #download("https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip", dest="powerCons.zip", mode="wb") 
 #unzip ("powerCons.zip", exdir = "./")
 
